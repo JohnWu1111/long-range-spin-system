@@ -9,7 +9,7 @@ L = 1; %size
 J = 1;
 h = 0.1;
 dt = 1e-3;
-T = 0:dt:100;
+T = 0:dt:1000;
 nT = length(T);
 
 % S = zeros(3,L);
